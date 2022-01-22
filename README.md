@@ -11,7 +11,7 @@ Breadth first search (BFS).
 
 A Star (A*).
 
-Language used
+Language used 
 PYTHON.
 -------------------------
 
@@ -33,6 +33,6 @@ time
 How to run 
 
 Run the file "Among-Koban.exe".
-Or explore file by visual studio
+Or explore file by visual studio.
 Or access the "source" folder and run the script "main.py" by typing.
 python main.py
