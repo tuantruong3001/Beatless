@@ -1,4 +1,5 @@
-# Beatless
+# Sokoban
+
 Sokoban AI Solver Basic
 
 This is my assignment in the "Introduction to Artificial Intelligence" subject at College.
